@@ -1,0 +1,144 @@
+
+
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+header{
+    background-color: #000000;
+    padding: 15px 0;
+    
+}
+
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav{
+    position: absolute;
+    top: 126px;
+    right: 0;
+
+}
+
+nav li{
+ display: inline;
+ margin: 0 0 0 15px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+nav a:hover{
+    color: #ce4f06;
+    text-decoration: underline;
+
+}
+
+main{
+    width: 940px;
+    margin: 0 auto;
+    
+}
+
+h1 {
+    text-emphasis: none;
+    font-style: italic;
+    text-align: left;
+    
+}
+
+span{
+    color: #ce4f06;
+}
+
+.titulo-principal{
+    text-align: center;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 25px;
+   
+}
+
+.img-entrada{
+    width: 330px;
+    margin: 0 1em 2em;
+    text-align: center;
+    display: block;
+    float: left;
+    padding: 20px;
+
+    
+    
+
+}
+
+p{
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+hr{
+
+    margin: 2em;
+}
+
+.p-mapa{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+
+.mapa-conteudo{
+    width: 940px;
+    height: 300px;
+    margin: 2em  auto;
+    padding: 1em;
+    text-align: center;
+    left: auto;
+}
+
+h2{
+    text-align: center;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 2em 2em;
+}
+
+table{
+    margin: 15px  0 25px;
+    background: linear-gradient(#ce4f06, #000000);
+    color: #ffffff;
+    margin: auto;
+}
+.tebela-dias{
+    padding: 10px;
+}
+
+thead{
+    font-weight: bold;
+}
+
+td, th{
+    border: solid 1px #000000;
+    padding: 10px 10px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
